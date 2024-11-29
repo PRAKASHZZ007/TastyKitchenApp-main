@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/tastykitchenapp-main/static/css/main.2c6a7f24.chunk.css",
+    "main.js": "/tastykitchenapp-main/static/js/main.33cbbcd1.chunk.js",
+    "main.js.map": "/tastykitchenapp-main/static/js/main.33cbbcd1.chunk.js.map",
+    "runtime-main.js": "/tastykitchenapp-main/static/js/runtime-main.6be0a745.js",
+    "runtime-main.js.map": "/tastykitchenapp-main/static/js/runtime-main.6be0a745.js.map",
+    "static/css/2.d95d83c7.chunk.css": "/tastykitchenapp-main/static/css/2.d95d83c7.chunk.css",
+    "static/js/2.98358663.chunk.js": "/tastykitchenapp-main/static/js/2.98358663.chunk.js",
+    "static/js/2.98358663.chunk.js.map": "/tastykitchenapp-main/static/js/2.98358663.chunk.js.map",
+    "index.html": "/tastykitchenapp-main/index.html",
+    "static/css/2.d95d83c7.chunk.css.map": "/tastykitchenapp-main/static/css/2.d95d83c7.chunk.css.map",
+    "static/css/main.2c6a7f24.chunk.css.map": "/tastykitchenapp-main/static/css/main.2c6a7f24.chunk.css.map",
+    "static/js/2.98358663.chunk.js.LICENSE.txt": "/tastykitchenapp-main/static/js/2.98358663.chunk.js.LICENSE.txt",
+    "static/media/empty.7d83795a.svg": "/tastykitchenapp-main/static/media/empty.7d83795a.svg",
+    "static/media/f.810d1020.svg": "/tastykitchenapp-main/static/media/f.810d1020.svg",
+    "static/media/greebl.4f026fa6.svg": "/tastykitchenapp-main/static/media/greebl.4f026fa6.svg",
+    "static/media/home.72a211bf.svg": "/tastykitchenapp-main/static/media/home.72a211bf.svg",
+    "static/media/i.0ccb23a4.svg": "/tastykitchenapp-main/static/media/i.0ccb23a4.svg",
+    "static/media/logo.c52a6d95.svg": "/tastykitchenapp-main/static/media/logo.c52a6d95.svg",
+    "static/media/logout.5bfd311c.svg": "/tastykitchenapp-main/static/media/logout.5bfd311c.svg",
+    "static/media/p.9a2fb0d5.svg": "/tastykitchenapp-main/static/media/p.9a2fb0d5.svg",
+    "static/media/slick-theme.css": "/tastykitchenapp-main/static/media/slick.c94f7671.ttf",
+    "static/media/traffic.7e9ef4ed.svg": "/tastykitchenapp-main/static/media/traffic.7e9ef4ed.svg",
+    "static/media/tw.053f707a.svg": "/tastykitchenapp-main/static/media/tw.053f707a.svg",
+    "static/media/white-logo.2084f07f.svg": "/tastykitchenapp-main/static/media/white-logo.2084f07f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6be0a745.js",
+    "static/css/2.d95d83c7.chunk.css",
+    "static/js/2.98358663.chunk.js",
+    "static/css/main.2c6a7f24.chunk.css",
+    "static/js/main.33cbbcd1.chunk.js"
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tastykitchenapp-main/static/css/main.2c6a7f24.chunk.css",
-    "main.js": "/tastykitchenapp-main/static/js/main.33cbbcd1.chunk.js",
-    "main.js.map": "/tastykitchenapp-main/static/js/main.33cbbcd1.chunk.js.map",
+    "main.js": "/tastykitchenapp-main/static/js/main.f5f891db.chunk.js",
+    "main.js.map": "/tastykitchenapp-main/static/js/main.f5f891db.chunk.js.map",
     "runtime-main.js": "/tastykitchenapp-main/static/js/runtime-main.6be0a745.js",
     "runtime-main.js.map": "/tastykitchenapp-main/static/js/runtime-main.6be0a745.js.map",
     "static/css/2.d95d83c7.chunk.css": "/tastykitchenapp-main/static/css/2.d95d83c7.chunk.css",
@@ -30,6 +30,6 @@
     "static/css/2.d95d83c7.chunk.css",
     "static/js/2.98358663.chunk.js",
     "static/css/main.2c6a7f24.chunk.css",
-    "static/js/main.33cbbcd1.chunk.js"
+    "static/js/main.f5f891db.chunk.js"
   ]
 }
